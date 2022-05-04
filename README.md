@@ -19,11 +19,12 @@ My main goal is make world better and more accesible. That's why I support <b>op
    <a href="https://github.com/darkistaken" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
    <a href="mailto:erensarioglu.pr@gmail.com" target"blank_"><img src="https://img.shields.io/badge/gmail%20-111111.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://steamcommunity.com/id/NoctusDark" target"blank_"><img src="https://img.shields.io/badge/steam%20-111111.svg?&style=for-the-badge&logo=steam&logoColor=white"></a><br>
+  <a href="https://opensea.io/nocturnee" target"blank_"><img src="https://img.shields.io/badge/opensea%20-111111.svg?&style=for-the-badge&logo=opensea&logoColor=white"></a>
   <a href="https://matrix.to/#/@nocturnee:matrix.org" target"blank_"><img src="https://img.shields.io/badge/matrix%20-111111.svg?&style=for-the-badge&logo=matrix&logoColor=white"></a><br>
 </p>
 
 
-## Languages and Tools That I use
+## Languages and Tools That I Use
 <p align="center">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Codepen" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" style="padding-right:10px;" />
