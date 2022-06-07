@@ -1,4 +1,4 @@
-# Hi there, I'm Dark! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there, I'm Dark! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 <samp>
   <b>I'm a student & JR. Developer from Turkey. </b> I'm a self-taught developer who is looking to learn new things all the time. I'm mostly learning programming & improving my coding abilites right now. <br>
   <b>I'm a Fullstack Web & Mobile Developer</b> and I'm currently dealing with Freelance projects and developing my own free stuff. <br><br>
