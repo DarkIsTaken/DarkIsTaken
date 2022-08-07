@@ -66,3 +66,5 @@
 ## My GitHub Stats
 
 ![Dark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darkistaken&show_icons=true&theme=highcontrast)
+---
+<div align="center"><img align="center" src="https://komarev.com/ghpvc/?username=darkistaken&color=fcba03&style=for-the-badge&label=PROFILE+VIEWED" alt="Dark" /></div>
