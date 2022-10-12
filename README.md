@@ -13,7 +13,7 @@
    <a href="https://www.youtube.com/channel/UCGlut7xldjVG6Ho64nTVHNA" target"blank_"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
    <a href="https://www.twitch.tv/hunteryap" target"blank_"><img src="https://img.shields.io/badge/twitch%20-111111.svg?&style=for-the-badge&logo=twitch&logoColor=white"></a>
    <a href="https://github.com/darkistaken" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-   <a href="mailto:noctusdark@gmail.com" target"blank_"><img src="https://img.shields.io/badge/gmail%20-111111.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+   <a href="mailto:info@noctus.dev" target"blank_"><img src="https://img.shields.io/badge/gmail%20-111111.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://steamcommunity.com/id/NoctusDark" target"blank_"><img src="https://img.shields.io/badge/steam%20-111111.svg?&style=for-the-badge&logo=steam&logoColor=white"></a><br>
   <a href="https://opensea.io/nocturnee" target"blank_"><img src="https://img.shields.io/badge/opensea%20-111111.svg?&style=for-the-badge&logo=opensea&logoColor=white"></a>
   <a href="https://matrix.to/#/@nocturnee:matrix.org" target"blank_"><img src="https://img.shields.io/badge/matrix%20-111111.svg?&style=for-the-badge&logo=matrix&logoColor=white"></a><br><br>
