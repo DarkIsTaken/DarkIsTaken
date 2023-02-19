@@ -12,6 +12,7 @@ There is nothing much to say about myself right now. <img src = "https://cdn.dis
    <a href="https://www.youtube.com/channel/UCGlut7xldjVG6Ho64nTVHNA" target"blank_"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
    <a href="https://www.twitch.tv/hunteryap" target"blank_"><img src="https://img.shields.io/badge/twitch%20-111111.svg?&style=for-the-badge&logo=twitch&logoColor=white"></a>
    <a href="https://github.com/darkistaken" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+   <a href="https://www.npmjs.com/~noctus" target"blank_"><img src="https://img.shields.io/badge/npm%20-111111.svg?&style=for-the-badge&logo=npm&logoColor=white"></a>
    <a href="mailto:info@noctus.dev" target"blank_"><img src="https://img.shields.io/badge/gmail%20-111111.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://steamcommunity.com/id/NoctusDark" target"blank_"><img src="https://img.shields.io/badge/steam%20-111111.svg?&style=for-the-badge&logo=steam&logoColor=white"></a><br>
   <a href="https://opensea.io/nocturnee" target"blank_"><img src="https://img.shields.io/badge/opensea%20-111111.svg?&style=for-the-badge&logo=opensea&logoColor=white"></a>
@@ -60,8 +61,7 @@ There is nothing much to say about myself right now. <img src = "https://cdn.dis
 <img align="left" alt="Gitlab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" style="padding:10px;" />
 <img align="left" alt="Adobe XD" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" style="padding:10px;" />
 <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding:10px;" />
-<img align="left" alt="Ubuntu" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="padding:10px;" />
-<img align="left" alt="Blender" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" style="padding:10px;" /><br><br><br>
+<img align="left" alt="Ubuntu" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="padding:10px;" /><br><br><br>
 </p>
 
 ## Support Me
