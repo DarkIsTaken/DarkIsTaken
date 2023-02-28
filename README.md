@@ -1,9 +1,67 @@
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82" width="550px">
+</div>
+
 # Hi there, I'm Dark! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
   I'm a 16-year-old student who is into coding and development. I'm currently learning and improving myself in field of web development. All the time I'm looking for learning new things and improving myself. <br> You can find my open-source projects in here and can contact me via <a href="mailto:info@noctus.dev">e-mail.</a><br>
 There is nothing much to say about myself right now. <img src = "https://cdn.discordapp.com/emojis/625936333248004096.png?v=1" high="20px" width="30px">
 
+<img width="auto" height="auto" src="https://i.imgur.com/iXuL1HG.png" />
+
 ---
+
+<div>
+
+```js
+class Dark {
+  constructor(...options) {
+    this.height = "1.80"
+    this.age = "16"
+    this.type = "human"
+    this.sex = "male"
+    this.nationality = "Turkish 🇹🇷"
+    this.job = "Full-Stack Developer"
+    this.skills = ['Node.js','Vue.js','React','Electron','Flutter','PHP','Laravel','Python','Java']
+  }
+}
+
+class CreateHuman extends Dark {
+  constructor(...options) {
+    super(options);
+  }
+  
+  private _eating() {
+    void "eating 🍔 🍟 🍗 🥤"
+  }
+  
+  private _coding() {
+    void "coding... ❤️"
+  }
+  
+  private _sleep(ms) { return new Promise(resolve => setTimeout(resolve, ms)) }
+  
+  async createDay() {
+    this._eating()
+    this._coding()
+    await this._sleep(18000000)
+    
+    this.createDay()
+  }
+  
+}
+
+let Dark = new CreateHuman()
+Dark.createDay();
+
+let Dark = new CreateHuman()
+Dark.createDay();
+```
+</div>
+
+<div align="center" style="margin:30px;">
+<img width="50%" height="auto" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif"/>
+</div>
 
 ## My Contacts
 <p align="center">
@@ -11,6 +69,7 @@ There is nothing much to say about myself right now. <img src = "https://cdn.dis
    <a href="https://open.spotify.com/user/31qyxpn6tptgxjg3kukxautk7y7a" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
    <a href="https://www.youtube.com/channel/UCGlut7xldjVG6Ho64nTVHNA" target"blank_"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
    <a href="https://www.twitch.tv/hunteryap" target"blank_"><img src="https://img.shields.io/badge/twitch%20-111111.svg?&style=for-the-badge&logo=twitch&logoColor=white"></a>
+   <a href="https://twitter.com/NoctusDark" target"blank_"><img src="https://img.shields.io/badge/Twitter%20-111111.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
    <a href="https://github.com/darkistaken" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
    <a href="https://www.npmjs.com/~noctus" target"blank_"><img src="https://img.shields.io/badge/npm%20-111111.svg?&style=for-the-badge&logo=npm&logoColor=white"></a>
    <a href="mailto:info@noctus.dev" target"blank_"><img src="https://img.shields.io/badge/gmail%20-111111.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -21,47 +80,11 @@ There is nothing much to say about myself right now. <img src = "https://cdn.dis
 </p>
 
 
-## Languages and Tools That I Use
+## Languages & Tools That I Use
 <p align="center">
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding:10px;" />
-<img align="left" alt="Codepen" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" style="padding:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding:10px;" />
-<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="padding:10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding:10px;" />
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding:10px;" />
-<img align="left" alt="Vue" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding:10px;" />
-<img align="left" alt="SASS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding:10px;" />
-<img align="left" alt="Tailwind" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding:10px;" />
-<img align="left" alt="Nuxt" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" style="padding:10px;" />
-<img align="left" alt="Express.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding:10px;" />
-<img align="left" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding:10px;" />
-<img align="left" alt="Laravel" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" style="padding:10px;" />
-<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="padding:10px;" />
-<img align="left" alt="Discord.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" style="padding:10px;" />
-<img align="left" alt="Android Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" style="padding:10px;" />
-<img align="left" alt="Dart" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="padding:10px;" />
-<img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding:10px;" />
-<img align="left" alt="Kotlin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="padding:10px;" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding:10px;" />
-<img align="left" alt="MicrosoftSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="padding:10px;" />
-<img align="left" alt="CouchDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original.svg" style="padding:10px;" />
-<img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding:10px;" />
-<img align="left" alt="Google Cloud" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" style="padding:10px;" />
-<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding:10px;" />
-<img align="left" alt="Azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="padding:10px;" />
-<img align="left" alt="Heroku" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" style="padding:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding:10px;" />
-<img align="left" alt="Gitlab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" style="padding:10px;" />
-<img align="left" alt="Adobe XD" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" style="padding:10px;" />
-<img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding:10px;" />
-<img align="left" alt="Ubuntu" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="padding:10px;" /><br><br><br>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,scss,tailwindcss,jquery,nodejs,vuejs,react,nextjs,nuxtjs,nestjs,express,electron,flask,php,laravel,python,django,selenium,java,flutter,dart,bash,mongodb,mysql,postgres,graphql,firebase,aws,gcp,heroku,git,github,gitlab,vscode,codepen,replit,vercel,xd,figma,linux&theme=dark)](#)
+
 </p>
 
 ## Support Me
@@ -74,6 +97,25 @@ There is nothing much to say about myself right now. <img src = "https://cdn.dis
 
 ## My GitHub Stats
 
-![Dark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darkistaken&show_icons=true&theme=highcontrast)
+[![Dark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darkistaken&show_icons=true&theme=highcontrast)](#)
 ---
+
+<div align="center">
+  
+```diff
+
+██╗  ██╗░░░░░░█████╗░██╗░░░██╗███████╗  ░█████╗░░█████╗░██████╗░██╗███╗░░██╗░██████╗░
+██║  ██║░░░░░██╔══██╗██║░░░██║██╔════╝  ██╔══██╗██╔══██╗██╔══██╗██║████╗░██║██╔════╝░
+██║  ██║░░░░░██║░░██║╚██╗░██╔╝█████╗░░  ██║░░╚═╝██║░░██║██║░░██║██║██╔██╗██║██║░░██╗░
+██║  ██║░░░░░██║░░██║░╚████╔╝░██╔══╝░░  ██║░░██╗██║░░██║██║░░██║██║██║╚████║██║░░╚██╗
+██║  ███████╗╚█████╔╝░░╚██╔╝░░███████╗  ╚█████╔╝╚█████╔╝██████╔╝██║██║░╚███║╚██████╔╝
+╚═╝  ╚══════╝░╚════╝░░░░╚═╝░░░╚══════╝  ░╚════╝░░╚════╝░╚═════╝░╚═╝╚═╝░░╚══╝░╚═════╝░
+```
+  
+</div>
+
+<div align="center">
+  <img src = "https://i.pinimg.com/originals/57/3c/da/573cdaf5205bebaac51ca29273dd5514.gif" height="200px" width:"auto">
+</div>
+
 <div align="center"><img align="center" src="https://komarev.com/ghpvc/?username=darkistaken&color=000000&style=for-the-badge&label=PROFILE+VIEWED" alt="Dark" /></div>
