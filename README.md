@@ -79,7 +79,6 @@ Dark.createDay();
   <a href="https://solo.to/noctus" target"blank_">Click here</a> to see my all contacts!
 </p>
 
-
 ## Languages & Tools That I Use
 <p align="center">
 
@@ -99,6 +98,15 @@ Dark.createDay();
 
 [![Dark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darkistaken&show_icons=true&theme=highcontrast)](#)
 ---
+
+<details open>
+<summary>
+
+### What I'm Listening
+</summary>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6hbbhqzd47ewgvgazw778iin3&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+</details><br>
 
 <div align="center">
   
