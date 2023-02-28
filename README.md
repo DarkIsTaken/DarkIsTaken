@@ -105,7 +105,7 @@ Dark.createDay();
 ### What I'm Listening
 </summary>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6hbbhqzd47ewgvgazw778iin3&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6hbbhqzd47ewgvgazw778iin3&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/user/31qyxpn6tptgxjg3kukxautk7y7a)
 </details><br>
 
 <div align="center">
