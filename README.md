@@ -4,7 +4,7 @@
 
 # Hi there, I'm Dark! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-  I'm a 16-year-old student who is into coding and development. I'm currently learning and improving myself in field of web development. All the time I'm looking for learning new things and improving myself. <br> You can find my open-source projects in here and can contact me via <a href="mailto:info@noctus.dev">e-mail.</a><br>
+  I'm a 16-year-old Sophomore High School student who is into coding and development. I'm currently learning and improving myself in field of web development. All the time I'm looking for learning new things and improving myself. <br> You can find my open-source projects in here and can contact me via <a href="mailto:info@noctus.dev">e-mail.</a><br>
 There is nothing much to say about myself right now. <img src = "https://cdn.discordapp.com/emojis/625936333248004096.png?v=1" high="20px" width="30px">
 
 <img width="auto" height="auto" src="https://i.imgur.com/iXuL1HG.png" />
@@ -33,11 +33,16 @@ class CreateHuman extends Dark {
   
   private _eating() {
     void "eating 🍔 🍟 🍗 🥤"
+  }  
+  
+  private _hobbies() {
+    void "Swimming 🏊, Bodybuilding 🏋️, Guitar 🎸"
   }
   
   private _coding() {
     void "coding... ❤️"
   }
+
   
   private _sleep(ms) { return new Promise(resolve => setTimeout(resolve, ms)) }
   
