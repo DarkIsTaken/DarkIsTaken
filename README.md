@@ -4,7 +4,7 @@
 
 # Hi there, I'm Dark! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-  I'm a 16-year-old Sophomore High School student who is into coding and development. <b><i> (No longer continued) </i></b> I'm currently learning and improving myself in field of web development. All the time I'm looking for learning new things and improving myself. <br> You can find my open-source projects in here and can contact me via <a href="mailto:info@noctus.dev">e-mail.</a><br>
+  I'm a 17-year-old Senior High School student into coding and development. <b><i> (Away for a while...) </i></b><br> I'm currently learning and improving myself in field of web development. All the time I'm looking for learning new things and improving myself. <br> You can find my open-source projects in here and can contact me via <a href="mailto:info@noctus.dev">e-mail.</a><br>
 There is nothing much to say about myself right now. <img src = "https://cdn.discordapp.com/emojis/625936333248004096.png?v=1" high="20px" width="30px">
 <h3><b>NOTE: </b>I'm temporarily discontinued from development for a while...</h3>
 
@@ -12,13 +12,14 @@ There is nothing much to say about myself right now. <img src = "https://cdn.dis
 
 ---
 
+## Hey there, I'm temporarily away from development & this GitHub account for a while, for any reason to contact you can use the <a href="mailto:info@noctus.dev">e-mail</a> given.
 <div>
 
 ```js
 class Dark {
   constructor(...options) {
     this.height = "1.80"
-    this.age = "16"
+    this.age = "17"
     this.type = "human"
     this.sex = "male"
     this.nationality = "Turkish 🇹🇷"
