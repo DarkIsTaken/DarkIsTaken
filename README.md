@@ -6,13 +6,11 @@
 
   I'm a 18-year-old Senior year High School student into coding and development. <b><i> (Away for a while...) </i></b><br> I'm currently learning and improving myself in field of web development. All the time I'm looking for learning new things and improving myself. <br> You can find my open-source projects in here and can contact me via <a href="mailto:info@noctus.dev">e-mail.</a><br>
 There is nothing much to say about myself right now. <img src = "https://cdn.discordapp.com/emojis/625936333248004096.png?v=1" high="20px" width="30px">
-<h3><b>NOTE: </b>I'm temporarily discontinued from development for a while...</h3>
 
 <img width="auto" height="auto" src="https://i.imgur.com/iXuL1HG.png" />
 
 ---
 
-## Hey there, I'm temporarily away from development & this GitHub account for a while, for any reason to contact you can use the <a href="mailto:info@noctus.dev">e-mail</a> given.
 <div>
 
 ```js
