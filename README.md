@@ -2,8 +2,6 @@
 
  > I’m an 18-year-old student Senior year in high school with a passion for coding and development. Currently, I am focusing on web development and am always eager to learn new things and enhance my skills. You can find my open-source projects here and contact me via <a href="mailto:info@noctus.dev">e-mail.</a><br> There isn’t much more to share about myself at the moment.
 
-### GRRRRRRPAAAAAAUUUUUWWWWW! <img src = "https://media.tenor.com/K3j9pwWlME0AAAAj/fire-flame.gif?v=1" high="30px" width="30px">
-
 ---
 
 ## Contacts
